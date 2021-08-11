@@ -1,0 +1,24 @@
+dir 
+
+git clone (link directory)
+ 
+cd "dir name"
+
+dir
+
+git status (afficher les fichiers)
+git checkout "( branche)"
+
+git status 
+
+mkdir "new dir name"
+
+cd..(enter new dir)
+git add . (add a new file)
+
+git commit -m "name" (commit new changement)
+
+_________browser sync_______
+
+browser-sync start --server --directory --files "*"
+
